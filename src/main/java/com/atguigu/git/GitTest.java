@@ -9,6 +9,8 @@ public class GitTest {
         System.out.println("push2");
 
         System.out.println("push2");
+
+        System.out.println("回滚");
     }
 }
 
